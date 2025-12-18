@@ -1,12 +1,12 @@
-# JQuery My Fancy Light Box
+# JQuery Fancy Light Box
 
 > Original Repos:   
-> - JQuery My Fancy Light Box: https://github.com/a19836/jquery-fancy-light-box/   
+> - JQuery Fancy Light Box: https://github.com/a19836/jquery-fancy-light-box/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
 
-**JQuery My Fancy Light Box** is a lightweight JavaScript library to display popups.
+**JQuery Fancy Light Box** is a lightweight JavaScript library to display popups.
 
 Check out a live example by opening [index.html](index.html).
 
