@@ -1,7 +1,7 @@
 # JQuery My Fancy Light Box
 
 > Original Repos:   
-> - JQuery My Fancy Light Box: https://github.com/a19836/jquerymyfancylightbox/   
+> - JQuery My Fancy Light Box: https://github.com/a19836/jquery-fancy-light-box/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
